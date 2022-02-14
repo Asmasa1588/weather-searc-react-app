@@ -1,1 +1,1 @@
-# weather-searc-react-app
+# weather-search-react-app
